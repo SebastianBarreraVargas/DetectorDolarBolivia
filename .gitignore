@@ -1,0 +1,19 @@
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Entornos virtuales
+venv/
+env/
+*.venv
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+*.swp
+
+# Configuración de Jupyter Notebook
+.ipynb_checkpoints/
